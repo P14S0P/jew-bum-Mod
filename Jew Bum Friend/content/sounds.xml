@@ -1,0 +1,7 @@
+<sounds root="sfx/">
+    <sound name="Hawa Nagila">
+        <sample weight="1" path="pickup_dime_01.wav"/>
+        <sample weight="1" path="pickup_nickel_01.wav"/>
+        <sample weight="1" path="pickup_penny_02.wav"/>
+    </sound>
+</sounds>
